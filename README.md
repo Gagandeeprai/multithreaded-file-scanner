@@ -21,7 +21,11 @@ No frozen terminal.
 Just clean UI, parallel scanning, and full control.
 
 ---
+## 🖼️ Preview
 
+![Multithreaded File Scanner UI](assets/preview.png)
+
+---
 ## 🚀 Features
 
 ✅ **Multithreaded Scanning**  
@@ -157,3 +161,4 @@ with focus on **concurrency, synchronization, and system-level programming**.
 💬 If you break it, you learned something.
 
 ```
+

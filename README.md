@@ -159,6 +159,3 @@ with focus on **concurrency, synchronization, and system-level programming**.
 
 ⭐ If you like this project, star it.
 💬 If you break it, you learned something.
-
-```
-

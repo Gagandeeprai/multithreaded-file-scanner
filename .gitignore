@@ -1,0 +1,11 @@
+# Build Artifacts
+build/
+*.o
+antivirus
+
+# Logs
+*.log
+
+# System/IDE
+.vscode/
+.DS_Store

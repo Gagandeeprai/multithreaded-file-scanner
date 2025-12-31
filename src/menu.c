@@ -36,7 +36,7 @@ int show_menu() {
 
     /* Title */
     attron(COLOR_PAIR(12) | A_BOLD);
-    mvprintw(2, 10, "  MULTITHREADED ANTIVIRUS SCANNNER  ");
+    mvprintw(2, 10, "  MULTITHREADED FILE SCANNER  ");
     attroff(COLOR_PAIR(12) | A_BOLD);
 
     attron(COLOR_PAIR(10));

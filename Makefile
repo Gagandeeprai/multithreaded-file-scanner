@@ -28,7 +28,7 @@ OBJS = \
 	$(OBJ_DIR)/browser.o
 
 # Output binary
-TARGET = antivirus
+TARGET = multithreaded-file-scanner
 
 # Default target
 all: $(TARGET)

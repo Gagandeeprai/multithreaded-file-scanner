@@ -1,7 +1,7 @@
 # Build Artifacts
 build/
 *.o
-antivirus
+multithreaded-file-scanner
 
 # Logs
 *.log
